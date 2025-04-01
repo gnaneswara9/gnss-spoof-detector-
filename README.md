@@ -1,5 +1,16 @@
 # GNSS Spoofing Detection System
 
+## Current System Support
+
+**Primary Supported Constellation**:  
+✅ GPS (Full almanac/ephemeris validation)
+
+**Planned Future Support**:  
+⌛ Galileo   
+⌛ GLONASS   
+⌛ BeiDou 
+
+*Multi-constellation support is under development*
 
 ## Table of Contents
 - [Overview](#overview)
